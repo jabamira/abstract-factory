@@ -1,0 +1,16 @@
+C:\Users\artem\Desktop\C#\abstract_fabrick\abstr_Fabric\abstr_Fabric\bin\Debug\net8.0-windows\abstr_Fabric.exe
+C:\Users\artem\Desktop\C#\abstract_fabrick\abstr_Fabric\abstr_Fabric\bin\Debug\net8.0-windows\abstr_Fabric.deps.json
+C:\Users\artem\Desktop\C#\abstract_fabrick\abstr_Fabric\abstr_Fabric\bin\Debug\net8.0-windows\abstr_Fabric.runtimeconfig.json
+C:\Users\artem\Desktop\C#\abstract_fabrick\abstr_Fabric\abstr_Fabric\bin\Debug\net8.0-windows\abstr_Fabric.dll
+C:\Users\artem\Desktop\C#\abstract_fabrick\abstr_Fabric\abstr_Fabric\bin\Debug\net8.0-windows\abstr_Fabric.pdb
+C:\Users\artem\Desktop\C#\abstract_fabrick\abstr_Fabric\abstr_Fabric\obj\Debug\net8.0-windows\abstr_Fabric.main.resources
+C:\Users\artem\Desktop\C#\abstract_fabrick\abstr_Fabric\abstr_Fabric\obj\Debug\net8.0-windows\abstr_Fabric.csproj.GenerateResource.cache
+C:\Users\artem\Desktop\C#\abstract_fabrick\abstr_Fabric\abstr_Fabric\obj\Debug\net8.0-windows\abstr_Fabric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\Desktop\C#\abstract_fabrick\abstr_Fabric\abstr_Fabric\obj\Debug\net8.0-windows\abstr_Fabric.AssemblyInfoInputs.cache
+C:\Users\artem\Desktop\C#\abstract_fabrick\abstr_Fabric\abstr_Fabric\obj\Debug\net8.0-windows\abstr_Fabric.AssemblyInfo.cs
+C:\Users\artem\Desktop\C#\abstract_fabrick\abstr_Fabric\abstr_Fabric\obj\Debug\net8.0-windows\abstr_Fabric.csproj.CoreCompileInputs.cache
+C:\Users\artem\Desktop\C#\abstract_fabrick\abstr_Fabric\abstr_Fabric\obj\Debug\net8.0-windows\abstr_Fabric.dll
+C:\Users\artem\Desktop\C#\abstract_fabrick\abstr_Fabric\abstr_Fabric\obj\Debug\net8.0-windows\refint\abstr_Fabric.dll
+C:\Users\artem\Desktop\C#\abstract_fabrick\abstr_Fabric\abstr_Fabric\obj\Debug\net8.0-windows\abstr_Fabric.pdb
+C:\Users\artem\Desktop\C#\abstract_fabrick\abstr_Fabric\abstr_Fabric\obj\Debug\net8.0-windows\abstr_Fabric.genruntimeconfig.cache
+C:\Users\artem\Desktop\C#\abstract_fabrick\abstr_Fabric\abstr_Fabric\obj\Debug\net8.0-windows\ref\abstr_Fabric.dll
